@@ -2,7 +2,7 @@
 
 This Portfolio Project showcases my work and skills as a web developer. Below are the comprehensive details regarding the project.
 
-## Features
+# Features
 - **Responsive Design**: The portfolio is designed to look great on all devices, including desktops, tablets, and smartphones.
 - **Project Showcase**: Highlight various projects with descriptions, technologies used, and links to live demos.
 - **Contact Form**: Includes a contact form for potential clients or employers to reach out.
