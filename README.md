@@ -20,4 +20,4 @@ This Portfolio Project showcases my work and skills as a web developer. Below ar
 
 ## Live Demo
 
--- https://project-portfolio-green-nine.vercel.app/
+- https://portfolio-murugesh-vs-projects.vercel.app
